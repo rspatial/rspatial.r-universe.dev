@@ -1,0 +1,15 @@
+[
+    {
+        "package": "geosphere",
+        "url": "https://github.com/rspatial/geosphere"
+    },
+    {
+        "package": "raster",
+        "url": "https://github.com/rspatial/raster"
+    },
+    {
+        "package": "terra",
+        "url": "https://github.com/rspatial/terra"
+    } 
+   
+]
