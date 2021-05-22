@@ -8,6 +8,22 @@
         "url": "https://github.com/rspatial/raster"
     },
     {
+        "package": "luna",
+        "url": "https://github.com/rspatial/luna"
+    },
+    {
+        "package": "geodata",
+        "url": "https://github.com/rspatial/geodata"
+    },
+    {
+        "package": "predicts",
+        "url": "https://github.com/rspatial/predicts"
+    },
+    {
+        "package": "dismo",
+        "url": "https://github.com/rspatial/dismo"
+    },
+    {
         "package": "terra",
         "url": "https://github.com/rspatial/terra"
     } 
