@@ -24,6 +24,14 @@
         "url": "https://github.com/rspatial/dismo"
     },
     {
+        "package": "rspat",
+        "url": "https://github.com/rspatial/rspat"
+    },
+    {
+        "package": "rspatial",
+        "url": "https://github.com/rspatial/rspatial"
+    },
+    {
         "package": "terra",
         "url": "https://github.com/rspatial/terra"
     } 
